@@ -1,0 +1,15 @@
+fa\training\service\impl\StudentServiceImpl.class
+fa\training\service\StudentService.class
+fa\training\models\Statistical.class
+fa\training\dao\impl\StudentDAOImpl.class
+fa\training\controller\CourseController.class
+fa\training\models\Student.class
+fa\training\models\Course.class
+fa\training\service\CourseService.class
+fa\training\dao\CourseDAO.class
+fa\training\dao\StudentDAO.class
+fa\training\models\CourseTitleCompare.class
+fa\training\service\impl\CourseServiceImpl.class
+fa\training\controller\StudentController.class
+fa\training\utils\Validator.class
+fa\training\dao\impl\CourseDAOImpl.class
